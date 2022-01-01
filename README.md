@@ -1,1 +1,13 @@
-# expense-tracker
+# Expense Tracker
+
+## О проекте
+Учебная работа из курса [React - The Complete Guide (incl Hooks, React Router, Redux)
+](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) - одностраничное веб-приложение для учета расходов.
+
+## Технологический стек и функциональность:
+### HTML 
+* Семантические теги
+### CSS
+* Flexbox
+* Псевдоклассы CSS
+### React JS
