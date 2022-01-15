@@ -22,6 +22,12 @@ const INITIAL_EXPENSES = [
     amount: 450,
     date: new Date(2021, 5, 12),
   },
+  {
+    id: "e5",
+    title: "MacBook Pro",
+    amount: 1299,
+    date: new Date(2022, 0, 12),
+  },
 ];
 
 
